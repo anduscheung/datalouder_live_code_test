@@ -12,7 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
@@ -28,8 +30,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![image](/assets/SampleImg.jpg)
-![Alt Text](/assets/SampleGif.jpg)
+![image](/sample_img.png)
+![Alt Text](/sample_gif.gif)
 
 ### Jekyll Themes
 
