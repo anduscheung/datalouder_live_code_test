@@ -16,7 +16,7 @@ You will be building a workable Whatsapp-like UI as shown in the image and the g
 
 ### Some key points to address
 
-1. The data are in this url: [a link](https://anduscheung.github.io/datalouder_live_code_test/data.json)
+1. The data are in this url: [https://anduscheung.github.io/datalouder_live_code_test/data.json](https://anduscheung.github.io/datalouder_live_code_test/data.json)
 
 2. The data source has more than you need, get the right part of the data and show them with a correct UI
 
@@ -30,7 +30,7 @@ You are also reminded that you should implement the hover effect and the click e
 
 4. For the search feature, we expect your work should be exactly the same as what you see in the demo
 
-5. The avatar place holder image is in this url: [a link](https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png)
+5. The avatar place holder image is in this url: [https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png](https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png)
 
 ### Expected result demo
 
