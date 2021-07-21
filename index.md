@@ -1,42 +1,32 @@
 ## Datalouder live test
 
-You can use the [editor on GitHub](https://github.com/anduscheung/datalouder_live_code_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for taking our live test. The test is aimed to let us know more about your skills on HTML, CSS Javascript (ReactJS) and your ability to learn.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You'll have 1.5 hours to finish this practical test. And you are allowed to use any library, Google for a solution, or even ask an question on stack overflow. However, you're not allowed to ask for help through messaging your mentor, you must finish on your own. Should you have any unclear, our senior engineer(s) will be on live with you during the test and is ready to help you.
 
-### Markdown
+### Instructions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You will be building a workable Whatsapp-like UI as shown in the image and the gif below.
 
-```markdown
-Syntax highlighted code block
+# Some key points to address
 
-# Header 1
+1. The data are in this url: https://anduscheung.github.io/datalouder_live_code_test/data.json
+2. The data source has more than you need, get the right part of the data and show them with a correct UI
+3. For the colors, font, font size and font styles in the demo, we don't expect you to do it with an exactly the same color code, but need to be very similar, here are some examples but not all of them:
 
-## Header 2
+- the sender's name should be in bold
+- the message font color should be in light grey
+- the date should have smaller font size than the name.
 
-### Header 3
+You are also reminded that you should implement the hover effect and the click effect
 
-- Bulleted
-- List
+4. For the search feature, we expect your work should be exactly the same as what you see in the demo
+5. The avatar place holder image is in this url: https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# Expected result demo
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Copyrights
 
-![image](/sample_img.png)
-![Alt Text](/sample_gif.gif)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anduscheung/datalouder_live_code_test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Content of this test belongs to Datalouder Company Limited and should not be copied and reuse without a licence.
