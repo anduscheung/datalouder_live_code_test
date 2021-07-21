@@ -12,7 +12,16 @@ Should you have any unclear, our senior engineer(s) will be on live with you dur
 
 ### Instructions
 
-You will be building a workable Whatsapp-like UI as shown in the image and the gif below.
+You will be building a workable Whatsapp-like UI as shown in the image and the gif below. Fetch the data from the provided url and map them with a user interface.
+
+We suggest you to start with a create-react-app template. Upon submission, please exclude the node_modules folder (removal), zip all your codes, and send to us through zoom.
+
+From the work you have submitted, we will judge your code in the following aspects:
+
+- Completeness
+- Correctness
+- Performance of your algorithm
+- Code clarity (e.g. indentations, naming conventions, consistencies, coherence, etc)
 
 ### Some key points to address
 
