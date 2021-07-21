@@ -4,7 +4,7 @@ Thank you for taking our live test.
 
 This test is created to let us know more about your skills on HTML, CSS Javascript (ReactJS) and your ability to learn.
 
-Time allowed: 90 minutes
+**Time allowed: 90 minutes**
 
 You are allowed to use any library, Google for a solution, or even ask an question on stack overflow. However, you're not allowed to ask for help through messaging your mentor, you must finish on your own.
 
