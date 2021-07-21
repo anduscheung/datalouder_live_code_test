@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Datalouder live test
 
 You can use the [editor on GitHub](https://github.com/anduscheung/datalouder_live_code_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,6 +27,9 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+![image](/assets/SampleImg.jpg)
+![Alt Text](/assets/SampleGif.jpg)
 
 ### Jekyll Themes
 
