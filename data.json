@@ -1,0 +1,88 @@
+{
+    "conversations": [{
+      "id": "ad0ec376-ba37-4dd1-aef8-c26edb0fd120",
+      "contact": {
+        "name": "Andus",
+        "contact_id": 0
+      },
+      "messages": [{
+        "id": 0,
+        "content": "Hello how are you?",
+        "sender_id": 1
+      }, {
+        "id": 1,
+        "content": "Well Well Well Well?",
+        "sender_id": 1
+      }]
+    }, 
+    {
+        "id": "a573836d-d3cb-48f3-9b62-bb9ab69ae844",
+        "contact": {
+          "name": "Billy",
+          "contact_id": 1
+        },
+        "messages": [{
+          "id": 2,
+          "content": "effafafefaefef feq1212e",
+          "sender_id": 0
+        }]
+    },
+    {
+        "id": "1074ce3f-b756-4cae-8f15-9e23daae5174",
+        "contact": {
+            "name": "Sam",
+            "contact_id": 2
+        },
+        "messages": [{
+            "id": 3,
+            "content": "The weather is bad today",
+            "sender_id": 0
+        }]
+    },
+    {
+        "id": "67fd5970-e04d-42f1-8548-efefcec56792",
+        "contact": {
+            "name": "Lewis",
+            "contact_id": 3
+        },
+        "messages": [{
+            "id": 4,
+            "content": "Marry Le Maaaarorfore",
+            "sender_id": 0
+        }]
+    },{
+        "id": "e55a3c48-f7d5-4c1f-a79c-162308189258",
+        "contact": {
+            "name": "Kalon",
+            "contact_id": 4
+        },
+        "messages": [{
+            "id": 5,
+            "content": "Super longgggggg text, Super longgggggg text, Super longgggggg text, Super longgggggg text, Super longgggggg text",
+            "sender_id": 0
+        }]
+    },{
+        "id": "c4827e3d-d622-4598-b25b-9a5e09d444ed",
+        "contact": {
+            "name": "Jessie",
+            "contact_id": 5
+        },
+        "messages": [{
+            "id": 6,
+            "content": "...",
+            "sender_id": 0
+        }, {
+            "id": 7,
+            "content": "hey",
+            "sender_id": 0
+        },{
+            "id": 8,
+            "content": "heyyyyy",
+            "sender_id": 0
+        },{
+            "id": 9,
+            "content": "heyyyyyy!!!!!!!!!!!! answer me!!!!",
+            "sender_id": 0
+        }]
+    }]
+}
