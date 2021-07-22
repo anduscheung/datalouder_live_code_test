@@ -15,8 +15,9 @@ Should you have anything unclear, our senior engineer(s) will be on live with yo
 You will be building a workable Whatsapp-like UI with React as shown in the image and the gif below. Fetch the data from the provided url and map them with a user interface.
 
 You can choose to use Javascript / Typescript. You'll receive bonus points if you finish with Typescript. We suggest you to start with a create-react-app template.
-Javascript: [https://create-react-app.dev/docs/getting-started](https://create-react-app.dev/docs/getting-started)
-Typescript: [https://create-react-app.dev/docs/adding-typescript](https://create-react-app.dev/docs/adding-typescript)
+
+- Javascript: [https://create-react-app.dev/docs/getting-started](https://create-react-app.dev/docs/getting-started)
+- Typescript: [https://create-react-app.dev/docs/adding-typescript](https://create-react-app.dev/docs/adding-typescript)
 
 Upon submission, please exclude the node_modules folder (removal), zip all your codes, and send to us through zoom.
 
