@@ -38,13 +38,13 @@ You are reminded that to balance the time used on both UI and search feature bec
 
 3. When showing the list of chats, show only the latest message under the sender's name
 
-4. For the colors, font, font size and font styles, you don't have to use the same color code as shown in the demo, but need to be very similar, here are some examples but not all of them:
+4. For the colors, font, font size and font styles, you don't have to use the same styles as shown in the demo, but need to be very similar, here are some examples but not all of them:
 
    - the sender's name should be in bold
    - the message font color should be in light grey
    - the date should have smaller font size than the name
-   - should apply hover effects and the click effects
-   - long text should be chopped and ends with a dot dot dot
+   - the list items should have hover and click effects applied
+   - long text should be chopped and ends with a dot dot dot if necessary
 
 5. The avatar placeholder image is in this url: [https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png](https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png)
 
@@ -56,9 +56,9 @@ We will be impressed if you can do the followings:
 
 1. Use typescript
 
-2. When displaying the list, sort the chats by the descending order, according to the date of it's latest chat
+2. When displaying the list, sort the chats by dates in descending order, dates refers to the latest message of each chat
 
-### Expected result demo
+### Expected result demo (without being sorted by date)
 
 # screenshot
 
