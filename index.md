@@ -22,10 +22,12 @@ Upon submission, please exclude the node_modules folder (removal), zip all your 
 
 From the work you have submitted, we will judge your code in the following aspects:
 
-- Completeness (UI: 50%, Search feature: 50%)
+- Completeness
 - Correctness
 - Performance of your algorithm
 - Code clarity (e.g. indentations, naming conventions, consistencies, coherence, etc)
+
+You are reminded that to balance the time used on both UI and search feature because their weights are equally distributed (UI: 50%, Search feature: 50%)
 
 ### Some key points to address
 
