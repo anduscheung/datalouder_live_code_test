@@ -43,13 +43,17 @@ From the work you have submitted, we will judge your code in the following aspec
 - should apply hover effects and the click effects
 - long text should be chopped and ends with a dot dot dot
 
-4. The avatar placeholder image is in this url: [https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png](https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png)
+5. The avatar placeholder image is in this url: [https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png](https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png)
 
-5. For the search feature, we expect you to do it exactly the same as what you see in the demo, observe the GIF carefully to see how it behaves
+6. For the search feature, we expect you to do it exactly the same as what you see in the demo, observe the GIF carefully to see how it behaves
 
 ### Bonus
 
-When displaying the list, sort the chats by the descending order, according to the date of it's latest chat
+We will be impressed if you can do the followings:
+
+1. Use typescript
+
+2. When displaying the list, sort the chats by the descending order, according to the date of it's latest chat
 
 ### Expected result demo
 
