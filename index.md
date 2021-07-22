@@ -29,17 +29,17 @@ From the work you have submitted, we will judge your code in the following aspec
 
 2. The data source has more than you need, get the right part of the data and show them with a correct UI
 
-3. For the colors, font, font size and font styles in the demo, we don't expect you to do it with an exactly the same color code, but need to be very similar, here are some examples but not all of them:
+3. For the colors, font, font size and font styles in the demo, you don't have to use the same color code as the demo, but need to be very similar, here are some examples but not all of them:
 
 - the sender's name should be in bold
 - the message font color should be in light grey
 - the date should have smaller font size than the name.
 
-You are also reminded that you should implement the hover effect and the click effect
+You are also reminded that you should implement the hover effects and the click effects
 
-4. For the search feature, we expect your work should be exactly the same as what you see in the demo
+4. For the search feature, we expect you to do it as a way that is exactly the same as what you see in the demo
 
-5. The avatar place holder image is in this url: [https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png](https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png)
+5. The avatar placeholder image is in this url: [https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png](https://anduscheung.github.io/datalouder_live_code_test/avatar_placeholder.png)
 
 ### Expected result demo
 
