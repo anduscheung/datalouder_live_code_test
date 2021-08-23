@@ -12,7 +12,7 @@ Should you have anything unclear, our senior engineer(s) will be on live with yo
 
 ### Instructions
 
-Observe carefully the demo on ![Alt Text](https://codetestdemo.netlify.app/).
+Observe carefully the demo on [https://codetestdemo.netlify.app/](https://codetestdemo.netlify.app/).
 
 You will be building the Whatsapp-like UI with React as shown in the demo.
 
