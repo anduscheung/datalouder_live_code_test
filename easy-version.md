@@ -1,6 +1,7 @@
 ---
-layout: page
 title: "Datalouder live code test (easy version)"
+layout: template
+filename: easy-version.md
 permalink: /easy-version/
 ---
 
