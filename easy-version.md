@@ -1,6 +1,6 @@
 ---
 title: "Datalouder live code test (easy version)"
-layout: jekyll-theme-slate
+layout: default
 filename: easy-version.md
 permalink: /easy-version/
 ---
