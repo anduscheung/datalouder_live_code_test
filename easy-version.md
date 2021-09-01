@@ -1,5 +1,5 @@
 ---
-title: Datalouder live code test (easy version)
-layout: template
-filename: easy-version
+layout: page
+title: "Datalouder live code test (easy version)"
+permalink: /easy-version/
 ---
