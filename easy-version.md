@@ -37,11 +37,15 @@ Data url: [https://anduscheung.github.io/datalouder_live_code_test/data.json](ht
 
 1. Fetch data from the above url when the home page is loaded and replace the template data (do not use local data, if you do, you fail the test immediately)
 
-2. Show only the latest message of each sender and sort the chats by dates in descending order. The data source has more than you need, get the right part of the data and plug in to the existing UI given to you
+2. Show only the latest message of each sender and sort the chats by dates in descending order. The data source has more than you need, get the right part of the data and plug in to the existing UI given to you.
 
-3. NO NEED to implement hover, click and highlight effects as shown in the demo.
+3. You only need to modify two files: App.js and ChatList.js.
 
-4. Implement a CASE INSENSITIVE search on both senders and messages, refer to the demo if you don't understand
+4. NO NEED to implement click and highlight effects as shown in the demo, no need to modify any UI (you don't have to change any CSS)
+
+5. Implement a CASE INSENSITIVE search on both senders and messages (More description on point 6).
+
+6. Allow user to type one or more than one search keyword on the search bar, filter out the chat items that without the keyword(s) appear in the sender's' name or message, refer to the demo if you don't understand
 
 ### Copyrights
 
