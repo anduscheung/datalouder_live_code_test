@@ -34,7 +34,7 @@ Data url: [https://anduscheung.github.io/datalouder_live_code_test/data.json](ht
 
 3. For the UI, use pure CSS file (no CSS framework allowed, like tailwindCSS) to style everything
 
-4. Implement a CASE INSENSITIVE search feature on both senders and messages with PURE JAVASCRIPT (no library allowed). i.e. Allow user to type one or more than one search keyword on the search bar, filter out the chat items that without the keyword(s) appear in the sender's' name or message, refer to the demo if you don't understand
+4. Implement a CASE INSENSITIVE search feature on both senders and messages with PURE JAVASCRIPT (no library allowed). i.e. Allow user to type one or more than one search keyword on the search bar (separate by space), filter out the chat items that without the keyword(s) appear in the sender's' name or message, refer to the demo if you don't understand
 
 5. Remove all unnecessary code upon submission
 
