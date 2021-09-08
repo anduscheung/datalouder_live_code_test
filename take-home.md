@@ -23,7 +23,7 @@ You should start with a create-react-app template by your own (in Javascript or 
 - Typescript: [https://create-react-app.dev/docs/adding-typescript](https://create-react-app.dev/docs/adding-typescript)
 
 Upon submission, please delete the node_modules folder (removal), zip you root folder, and upload to our Google Drive:
-[https://drive.google.com/drive/folders/1GH0xpyebtlBbqavvzSssIWhDUG8fV40q?usp=sharing][https://drive.google.com/drive/folders/1gh0xpyebtlbbqavvzsssiwhdug8fv40q?usp=sharing]
+[https://drive.google.com/drive/folders/1GH0xpyebtlBbqavvzSssIWhDUG8fV40q?usp=sharing](https://drive.google.com/drive/folders/1gh0xpyebtlbbqavvzsssiwhdug8fv40q?usp=sharing)
 
 ### Requirements
 
