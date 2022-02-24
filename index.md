@@ -6,7 +6,11 @@ This test is created to let us know more about your skills on HTML, CSS, Javascr
 
 **Time allowed: 90 minutes**
 
-You are allowed to use any library, Google for a solution, or even ask an question on stack overflow. We'll observe how you finish a small project in limited time. You are reminded that if you cannot finish everything, choose wisely and finish those you think are the most important.
+Get any help if necessary because we only care about the output.
+
+If you copied the code from somewhere, make sure your code is clean and leave NOTHING unnecessary.
+
+If you cannot finish everything, choose wisely and finish those you think are the most important.
 
 Should you have anything unclear, our senior engineer(s) will be on live with you during the test and is ready to help you.
 
@@ -14,14 +18,16 @@ Should you have anything unclear, our senior engineer(s) will be on live with yo
 
 Observe carefully the demo on [https://codetestdemo.netlify.app/](https://codetestdemo.netlify.app/).
 
-You will be building the Whatsapp-like UI with React as shown in the demo.
+Building the Whatsapp-like UI with React as shown in the demo.
 
-You can choose to use Javascript / Typescript. You'll receive bonus points if you finish with Typescript. We suggest you to start with a create-react-app template.
+Use Javascript / Typescript (You'll receive bonus points).
+
+We suggest you to start with a create-react-app template.
 
 - Javascript: [https://create-react-app.dev/docs/getting-started](https://create-react-app.dev/docs/getting-started)
 - Typescript: [https://create-react-app.dev/docs/adding-typescript](https://create-react-app.dev/docs/adding-typescript)
 
-When time is up, show us your demo.
+When time is up, show us your workable demo.
 
 Upon submission, please also exclude the node_modules folder (removal), zip all your codes, and send to us through Whatsapp / Signal.
 
@@ -33,7 +39,7 @@ Upon submission, please also exclude the node_modules folder (removal), zip all 
 
 ### Key requirements (UI: 50%, Search: 50%)
 
-1. Fetch data from the required url (do not use local data, if you do, you fail the test immediately)
+1. Fetch data from the required url (DO NOT use local data, if you do, you FAIL IMMEDIATELY)
 
 2. Show only the latest message of each sender and sort the chats by dates in descending order. The data source has more than you need, get the right part of the data and show them with a correct UI.
 
@@ -41,7 +47,7 @@ Upon submission, please also exclude the node_modules folder (removal), zip all 
 
 4. Implement a case insensitive search on both senders and messages, refer to the demo if you don't understand
 
-5. You must implement the search feature, if you cannot, you fail the test immediately. Balance the time between UI and the search feature.
+5. You MUST implement the search feature, if you cannot, you FAIL IMMEDIATELY. Balance the time between UI and the search feature.
 
 ### Copyrights
 
